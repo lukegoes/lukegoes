@@ -1,4 +1,4 @@
-# Lucas Goes - Desenvolvedor Full Stack
+# Lucas Goes - Desenvolvedor Full Stack &nbsp;&nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=lukegoes&" />
 
 Cursando análise e desenvolvimento de sistemas, atuo como Desenvolvedor Full Stack com foco em React, Node.js e TypeScript. Tenho experiência no desenvolvimento front-end e back-end, construindo APIs REST e trabalhando com bancos de dados MongoDB e SQL.
 
